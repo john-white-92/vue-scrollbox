@@ -1,4 +1,5 @@
 #vue-scrollbox
+
 A Vue.js (v2.x+) component to provide scroll and observe resize.
 
 # Installation
